@@ -1,3 +1,4 @@
+created by Isra Noor
 # demo
 
 ## Project setup
@@ -22,3 +23,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+created by Isra Noor
