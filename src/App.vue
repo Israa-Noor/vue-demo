@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <p>Latest questions from polls.</p>
+    <Polls title="My Polls"></Polls>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import Polls from "@/components/Polls";
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Polls,
   }
 }
 </script>
